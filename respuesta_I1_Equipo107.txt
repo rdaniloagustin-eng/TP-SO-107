@@ -8,8 +8,8 @@ GAMMA:
 
 a) ¿ALFA ve los datos que cargaron los demás en su repositorio?
 
-Sí. Una vez que BETA y GAMMA realizan sus cambios y hacen push al repositorio remoto, ALFA puede obtener esos cambios actualizando su repositorio local mediante git pull 
-o revisando directamente el repositorio en GitHub.
+Sí. Cuando BETA y GAMMA realizan sus cambios y hacen push al repositorio remoto, ALFA puede observar esos cambios actualizando su repositorio 
+local revisando directamente el repositorio en GitHub.
 
 b) ¿Si ALFA agrega un archivo los demás integrantes lo ven?
 
