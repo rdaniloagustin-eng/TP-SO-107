@@ -4,7 +4,7 @@ Integrantes del equipo:
 
 ALFA: Danilo Rodriguez
 BETA: Luciano zuzulich
-GAMMA: 
+GAMMA: Enzo Vargas
 
 a) ¿ALFA ve los datos que cargaron los demás en su repositoALFA puede observar esos cambios actualizandorio?
 
@@ -15,3 +15,11 @@ b) ¿Si ALFA agrega un archivo los demás integrantes lo ven?
 Sí, BETA y GAMMA pueden observar esos cambios actualizando los datos clonados con git pull.
 
 Sí. Si ALFA agrega un archivo y realiza commit remoto, los demás integrantes podrán verlo cuando actualicen sus repositorios locales o consulten el repositorio en GitHub.
+
+c) ¿Si BETA agrega un archivo los demas integrantes lo ven?
+
+si,por que se actualiza el proyecto en general para que lo vean todos
+
+d) ¿De que formas se comunicaron ustedes?
+
+e) ¿cual es la mejor forma de comunicarse entre ustedes dentro de github?
