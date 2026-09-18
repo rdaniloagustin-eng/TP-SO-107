@@ -21,5 +21,7 @@ c) ¿Si BETA agrega un archivo los demas integrantes lo ven?
 si,por que se actualiza el proyecto en general para que lo vean todos
 
 d) ¿De que formas se comunicaron ustedes?
+decidimos comunicarnos por WhatsApp.
 
 e) ¿cual es la mejor forma de comunicarse entre ustedes dentro de github?
+la mejor forma de comunicar nuestros cambios dentro de GitHub que encontramos actualmente es con commits dejando mensajes claros de lo que hicimos y que los demás integrantes antes de hacer git pull lean el historial de commits.
