@@ -1,0 +1,16 @@
+TRABAJO PRÁCTICO SO - INTERACCIÓN 1
+
+Integrantes del equipo:
+
+ALFA: Danilo Rodriguez
+BETA: 
+GAMMA: 
+
+a) ¿ALFA ve los datos que cargaron los demás en su repositorio?
+
+Sí. Una vez que BETA y GAMMA realizan sus cambios y hacen push al repositorio remoto, ALFA puede obtener esos cambios actualizando su repositorio local mediante git pull 
+o revisando directamente el repositorio en GitHub.
+
+b) ¿Si ALFA agrega un archivo los demás integrantes lo ven?
+
+Sí. Si ALFA agrega un archivo y realiza commit remoto, los demás integrantes podrán verlo cuando actualicen sus repositorios locales o consulten el repositorio en GitHub.
